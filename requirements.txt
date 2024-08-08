@@ -1,0 +1,6 @@
+streamlit
+langchain
+cohere
+streamlit-chat
+python-dotenv
+langchain-cohere
